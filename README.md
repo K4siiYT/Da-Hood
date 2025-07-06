@@ -23,3 +23,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/K4siiYT/Bypass/refs/h
 ```
 # idk if works on hood customs or other da hood copy
 ***but for that try it by yourself***
+# Visuals UI (Da hood supported only)
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/K4siiYT/Da-Hood/refs/heads/main/visuals_ui", true))()
+```
