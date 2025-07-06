@@ -1,4 +1,5 @@
 # OP Silent Aim undetected.
+# Hits on high ping too
 ```lua
 local SilentAim = {
     Enabled = true,
