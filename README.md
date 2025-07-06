@@ -1,18 +1,6 @@
 # OP Silent Aim undetected.
 # Hits on high ping too
 ```lua
-local SilentAim = {
-    Enabled = true,
-    HitPart = "Head",  
-    
-    FOV = {
-        Visible = true,
-        Transparency = 1,
-        Thickness = 1,
-        Radius = 150,
-        Color = Color3.fromRGB(255, 0, 0)
-    }
-}
 loadstring(game:HttpGet("https://raw.githubusercontent.com/K4siiYT/Da-Hood/refs/heads/main/ud_silentaim.luau", true))()
 ```
 # Undetected on da hood, but i strongly i recommend using the bypass tho.
